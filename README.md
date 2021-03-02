@@ -25,9 +25,6 @@ The aim of this project is to find drug candidates (ligand) with a high binding 
 7. Report highest scoring candidates 
 
 
-## Youtube video for this project
-https://www.youtube.com/watch?v=EPkQrNHKIX8&t=3s
-
 
 ## Requirements
 
